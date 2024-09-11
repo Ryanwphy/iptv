@@ -144,11 +144,11 @@ http://php.jdshipin.com:8880/1905.php?id=1905dy
 http://192.168.50.1:8012/rtp/239.77.0.164:5146
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="数字频道",CETV-1 综合教育
 http://192.168.50.1:8012/rtp/239.77.1.222:5146
-#EXTINF:-1 tvg-id="中国教育2台" tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="数字频道",CETV-2 空中课堂
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="数字频道",CETV-2 空中课堂
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1 tvg-id="中国教育3台" tvg-name="CETV3" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="数字频道",CETV-3 教育服务
+#EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="数字频道",CETV-3 教育服务
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="数字频道",CETV-4职业教育
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="数字频道",CETV-4职业教育
 http://192.168.50.1:8012/rtp/239.77.1.200:5146
 #EXTINF:-1 tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="数字频道",早期教育
 http://192.168.50.1:8012/rtp/239.77.0.180:5146
@@ -176,7 +176,7 @@ http://192.168.50.1:8012/rtp/239.77.1.120:5146
 http://192.168.50.1:8012/rtp/239.253.43.98:5146
 #EXTINF:-1 tvg-name="爱体育" tvg-logo="https://live.fanmingming.com/tv/爱体育.png" group-title="数字频道",爱体育
 http://192.168.50.1:8012/rtp/239.77.0.176:5146
-#EXTINF:-1 tvg-name="广东综艺" tvg-logo="https://live.fanmingming.com/tv/广东4k.png" group-title="4K高清",广东4K超高清
+#EXTINF:-1 tvg-name="广东4k" tvg-logo="https://live.fanmingming.com/tv/广东4k.png" group-title="4K高清",广东4K超高清
 http://192.168.50.1:8012/rtp/239.77.0.244:5146
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://live.fanmingming.com/tv/南国都市.png" group-title="4K高清",南国都市 4K
 http://192.168.50.1:8012/rtp/239.253.43.99:5146
