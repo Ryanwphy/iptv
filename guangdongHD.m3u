@@ -63,18 +63,18 @@ http://192.168.50.1:8012/rtp/239.77.1.218:5146
 http://192.168.50.1:8012/rtp/239.77.0.183:5146
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://192.168.50.1:8012/rtp/239.77.1.4:5146
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://192.168.50.1:8012/rtp/239.77.1.141:5146
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道",天津卫视超清
+http://192.168.50.1:8012/rtp/239.77.0.131:5146
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视
 http://192.168.50.1:8012/rtp/239.77.1.142:5146
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://192.168.50.1:8012/rtp/239.77.1.219:5146
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://192.168.50.1:8012/rtp/239.77.1.93:5146
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道",湖北卫视超清
+http://192.168.50.1:8012/rtp/239.77.0.128:5146
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://192.168.50.1:8012/rtp/239.77.1.103:5146
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://192.168.50.1:8012/rtp/239.77.1.6:5146
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视超清
+http://192.168.50.1:8012/rtp/239.77.0.124:5146
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://192.168.50.1:8012/rtp/239.77.1.221:5146
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视
@@ -313,8 +313,8 @@ http://192.168.50.1:8012/rtp/239.253.43.72:5146
 http://192.168.50.1:8012/rtp/239.253.43.73:5146
 #EXTINF:-1 tvg-name="广州法治" tvg-logo="https://live.fanmingming.com/tv/广州法治.png" group-title="广东频道",广州法治
 http://192.168.50.1:8012/rtp/239.253.43.74:5146
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="深圳频道",深圳卫视
-http://192.168.50.1:8012/rtp/239.77.1.3:5146
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="深圳频道",深圳卫视超清
+http://192.168.50.1:8012/rtp/239.77.0.130:5146
 #EXTINF:-1 tvg-name="深圳都市" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png" group-title="深圳频道",深圳都市
 http://192.168.50.1:8012/rtp/239.77.1.176:5146
 #EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://live.fanmingming.com/tv/深圳电视剧.png" group-title="深圳频道",深圳电视剧
