@@ -218,11 +218,11 @@ http://192.168.50.1:8012/rtp/239.77.0.250:5146
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="少儿频道",嘉佳卡通
 http://192.168.50.1:8012/rtp/239.77.0.179:5146
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿频道",卡酷少儿
-http://116.235.46.2:4022/rtp/239.45.0.8:5140
+http://192.168.50.1:8012/rtp/239.77.0.79:5146
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="少儿频道",动漫秀场
 http://116.235.46.2:4022/rtp/239.45.3.134:5140
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="少儿频道",哈哈炫动
-http://116.235.46.2:4022/rtp/239.45.1.55:5140
+http://192.168.50.1:8012/rtp/239.77.0.81:5146
 #EXTINF:-1 tvg-name="广东4k" tvg-logo="https://live.fanmingming.com/tv/广东4k.png" group-title="4K高清",广东4K超高清
 http://192.168.50.1:8012/rtp/239.77.0.244:5146
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://live.fanmingming.com/tv/南国都市.png" group-title="4K高清",南国都市 4K
