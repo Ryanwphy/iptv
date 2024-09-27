@@ -190,13 +190,9 @@ http://192.168.50.1:8012/rtp/239.253.43.98:5146
 #EXTINF:-1 tvg-name="爱体育" tvg-logo="https://live.fanmingming.com/tv/爱体育.png" group-title="数字频道",爱体育
 http://192.168.50.1:8012/rtp/239.77.0.176:5146
 #EXTINF:-1 tvg-name="IPTV1" group-title="IPTV频道",IPTV1高清
-http://192.168.50.1:8012/rtp/239.77.1.7:5146
-#EXTINF:-1 tvg-name="IPTV1" group-title="IPTV频道",IPTV1高清
 http://192.168.50.1:8012/rtp/239.77.1.203:5146
 #EXTINF:-1 tvg-name="IPTV2" group-title="IPTV频道",IPTV2高清
 http://192.168.50.1:8012/rtp/239.77.1.8:5146
-#EXTINF:-1 tvg-name="IPTV2" group-title="IPTV频道",IPTV2高清
-http://192.168.50.1:8012/rtp/239.77.1.201:5146
 #EXTINF:-1 tvg-name="IPTV3" group-title="IPTV频道",IPTV3高清
 http://192.168.50.1:8012/rtp/239.77.1.9:5146
 #EXTINF:-1 tvg-name="IPTV4" group-title="IPTV频道",IPTV4高清
