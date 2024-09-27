@@ -255,6 +255,8 @@ http://116.235.46.2:4022/rtp/239.45.3.134:5140
 http://192.168.50.1:8012/rtp/239.77.0.81:5146
 #EXTINF:-1 tvg-name="IPTV少儿动画" tvg-logo="https://live.fanmingming.com/tv/IPTV少儿动画.png" group-title="少儿频道",少儿动画
 http://192.168.50.1:8012/rtp/239.77.1.91:5146
+#EXTINF:-1 tvg-name="iHOT爱动漫" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="少儿频道",iHOT爱动漫
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="广东4k" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Guangdong4.png" group-title="4K高清",广东4K超高清
 http://192.168.50.1:8012/rtp/239.77.0.244:5146
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Guangzhou6.png" group-title="4K高清",南国都市 4K
